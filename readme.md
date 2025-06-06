@@ -1,5 +1,8 @@
 # Advanced Data Analysis Tool
 
+![image](https://github.com/user-attachments/assets/8312c3a1-673d-4c7f-ba31-68ed62061d5d)
+
+
 A comprehensive Python application for data analysis with a user-friendly GUI interface. This tool provides extensive data loading, analysis, visualization, and machine learning capabilities.
 
 ## Features
